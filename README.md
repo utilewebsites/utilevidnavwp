@@ -26,6 +26,9 @@ To witness firsthand how our Interactive Video Plugin functions, we've prepared 
 **Backend Screenshot:**
 ![Backend Screenshot](https://www.utilewebsites.nl/wp-content/uploads/2024/01/backend.png)
 
+**Frontend Screenshot:**
+![Frontend Screenshot](https://www.utilewebsites.nl/wp-content/uploads/2024/01/front.png)
+
 ## Try It Yourself
 Experience our Interactive Video Plugin in action by clicking https://www.utilewebsites.nl/en/knowledgebase/video-utilevidnavwp/. Test its capabilities and discover how it can elevate the effectiveness of your content presentations.
 
