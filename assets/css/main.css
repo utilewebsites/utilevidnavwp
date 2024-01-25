@@ -1,0 +1,30 @@
+#utilevidnavwp-buttons-container {
+    display: none;
+  }
+
+  #utilevidnavwp-buttons-container {
+    opacity: 1;
+    display: block;
+    transition: opacity 2s ease 0s;
+    text-align: left;
+    margin-top: 0px; /* Adjust the margin as needed */
+    max-width: 640px; /* Maximum width of 640px */
+}
+
+#utilevidnavwp-buttons-container button {
+    background-color: #000; /* Black background color for buttons */
+    color: #fff; /* White text color for buttons */
+    border: none;
+    padding: 10px 20px;
+    margin-right: 2px;
+    margin-top: 2px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; /* Smooth color transition on hover */
+}
+
+#utilevidnavwp-buttons-container button:hover {
+    background-color: #333; /* Change background color on hover */
+}
+
