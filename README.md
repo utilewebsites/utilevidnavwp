@@ -18,16 +18,16 @@ While our primary focus is on the real estate industry, the applications of this
 - **User-Friendly Configuration:** Our plugin is designed with simplicity in mind, allowing you to create interactive videos without requiring extensive technical expertise.
 
 ## Getting Started
-To begin using our plugin, you can download the basic version from our GitHub repository through the following link: [Download Plugin](https://github.com/your-username/your-repo-name/releases)
+To begin using our plugin, you can download the basic version from our GitHub repository through the following link: [Download Plugin](https://github.com/utilewebsites/utilevidnavwp)
 
 ## Live Demo
 To witness firsthand how our Interactive Video Plugin functions, we've prepared a live demonstration using a real estate video sourced from YouTube. This demo showcases the plugin's capabilities and illustrates how easy it is to create interactive videos.
 
 **Backend Screenshot:**
-![Backend Screenshot](https://your-image-url.com/link-to-screenshot.png)
+![Backend Screenshot](https://www.utilewebsites.nl/wp-content/uploads/2024/01/backend.png)
 
 ## Try It Yourself
-Experience our Interactive Video Plugin in action by clicking https://www.utilewebsites.nl/knowledgebase/video-utilevidnavwp. Test its capabilities and discover how it can elevate the effectiveness of your content presentations.
+Experience our Interactive Video Plugin in action by clicking https://www.utilewebsites.nl/en/knowledgebase/video-utilevidnavwp/. Test its capabilities and discover how it can elevate the effectiveness of your content presentations.
 
 Whether you operate in the real estate industry, are a passionate gamer, or promote other products and services, our Interactive Video Plugin unlocks new possibilities for engaging and interactive experiences. Download the plugin today and take the first step toward enhancing your content presentations!
 
